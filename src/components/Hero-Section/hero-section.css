@@ -1,3 +1,13 @@
+
+
+.HeroSection{
+
+  background-color: #0F172A;
+
+}
+/* *body{
+  background-color: #0F172A;
+} */
 .hero__content h2 {
   font-weight: 600;
   line-height: 55px;
@@ -14,7 +24,7 @@
 
 .search {
   width: 60%;
-  border: 1px solid #17bf9d44;
+  border: 1px solid #4481EB;
   display: flex;
   justify-content: space-between;
   align-items: center;

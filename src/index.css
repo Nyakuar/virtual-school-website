@@ -4,6 +4,7 @@
 
 /* =========== base style ========= */
 
+
 * {
   margin: 0;
   padding: 0;
@@ -37,7 +38,7 @@ p {
 }
 
 button.btn {
-  background: #17bf9e;
+  background: #4481EB;
   color: #fff;
   padding: 7px 25px;
   border-radius: 50px;
@@ -45,4 +46,8 @@ button.btn {
 
 i {
   color: #17bf9e;
+}
+
+body{
+  background-color: #0F172A;
 }

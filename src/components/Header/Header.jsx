@@ -8,24 +8,23 @@ const navLinks = [
     url: "#",
   },
   {
-    display: "About",
+    display: "Explore Courses",
     url: "#",
   },
 
   {
-    display: "Courses",
+    display: "Brainy for Enterprise",
     url: "#",
   },
   {
-    display: "Pages",
+    display: "Contact Us",
     url: "#",
   },
   {
-    display: "Blog",
+    display: "Login", 
     url: "#",
   },
 ];
-
 const Header = () => {
   const menuRef = useRef();
 
@@ -54,7 +53,7 @@ const Header = () => {
 
             <div className="nav__right">
               <p className="mb-0 d-flex align-items-center gap-2">
-                <i class="ri-phone-line"></i> +88 0123456789
+                <i class="ri-phone-line"></i> +254704624204
               </p>
             </div>
           </div>

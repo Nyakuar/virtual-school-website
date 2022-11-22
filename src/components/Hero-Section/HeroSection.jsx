@@ -11,17 +11,17 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+              Smart Skills for the  <br /> 21st Century Learners  <br /> 
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              Fun, social, and safe learning
+                  <br /> 
+                  experiences for ages 8 to14 <br /> 
               </p>
             </div>
-            <div className="search">
-              <input type="text" placeholder="Search" />
-              <button className="btn">Search</button>
+            <div className="">
+              {/* <input type="text" placeholder="Search" /> */}
+              <button className="btn">Explore Courses</button>
             </div>
           </Col>
 
